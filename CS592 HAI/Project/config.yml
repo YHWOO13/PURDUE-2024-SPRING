@@ -1,0 +1,22 @@
+is_train: False
+is_select: False
+#test_model_path: "C:\\Users\\LG\\PycharmProjects\\pythonProject\\Purdue\\scrutinize_papercode\\ConceptFlow-master\\model\\conceptflow.py" # None
+test_model_path: "/content/drive/MyDrive/Commit_colab/PURDUE-2024-SPRING/CS592 HAI/training_output/_epoch_4.pkl"
+embed_units: 300
+symbols: 30000
+units: 512
+layers: 2
+batch_size: 30
+data_dir: "/content/drive/MyDrive/Colab Notebooks/ConceptFlow(ECCF)_data"
+num_epoch: 5
+lr_rate: 0.0001
+lstm_dropout: 0.3
+linear_dropout: 0.2
+max_gradient_norm: 5
+trans_units: 100
+gnn_layers: 3
+fact_dropout: 0.0
+fact_scale: 1
+pagerank_lambda: 0.8
+result_dir_name: "/content/drive/MyDrive/Commit_colab/PURDUE-2024-SPRING/CS592 HAI/Project/training_output"
+generated_path: "/content/drive/MyDrive/Commit_colab/PURDUE-2024-SPRING/CS592 HAI/Project/inference_output"
