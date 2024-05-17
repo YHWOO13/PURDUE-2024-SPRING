@@ -1,6 +1,6 @@
 # PURDUE-2024-SPRING
 - Course: CNIT581 Responsible Data Management<br>
-  Project: <br>
+  Project: Why Should be this Entity? :Focusing on Knowledge graph and Reddit data<br>
   Assignment: LIME, SHAP <br>
   
 - Course: CS592 Human-AI Interaction<br>
