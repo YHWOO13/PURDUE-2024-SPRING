@@ -1,8 +1,4 @@
-# PURDUE-2024-SPRING
-- Course: CNIT581 Responsible Data Management<br>
-  Project: Why Should be this Entity? :Focusing on Knowledge graph and Reddit data<br>
-  Assignment: LIME, SHAP <br>
-  
+# PURDUE-2024-SPRING  
 - Course: CS592 Human-AI Interaction<br>
   Project: Dynamic Context-Aware Chatbot using ConceptFlow<br>
   huge reference: ACL 2020 paper Grounded Conversation Generation as Guided Traverses in Commonsense Knowledge Graphs (https://github.com/thunlp/ConceptFlow)<br>
@@ -15,3 +11,8 @@
 
   ■ GUI<br>
   <img width="490" alt="GUI" src="https://github.com/YHWOO13/PURDUE-2024-SPRING/assets/59326872/a93ab1df-0850-4c92-89ed-df81c07574c3"><br>
+
+
+- Course: CNIT581 Responsible Data Management<br>
+  Project: Why Should be this Entity? :Focusing on Knowledge graph and Reddit data<br>
+  Assignment: LIME, SHAP <br>
